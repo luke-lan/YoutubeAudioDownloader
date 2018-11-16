@@ -33,6 +33,6 @@ def download_playlist(playlist_url):
 
 if __name__ == "__main__":
   # INPUT PLAYLIST URL HERE
-  input_playlist_url = "https://www.youtube.com/watch?v=GnGLTThwpLU&list=TLGG17KzQ1uU0VMwOTExMjAxOA" 
+  input_playlist_url = "https://www.youtube.com/watch?v=GnGLTThwpLU&list=PLp-wXwmbv3z-tgjTsJZMITTZvPoX_s5PV" 
   
   download_playlist(input_playlist_url)
